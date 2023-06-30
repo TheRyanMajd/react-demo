@@ -10,14 +10,14 @@ function Cards() {
         <div className='cards__wrapper'>
             <ul className='cards__items'>
                 <CardItem 
-                src='images/img-9.jpg'
+                src='./react-demo/images/img-9.jpg'
                 text= "Explore the hidden 💦fall deep inside the Amazon Jungle!"
                 label= 'Adventure'
                 path = '/services'
                 />
 
                 <CardItem 
-                src='images/img-2.jpg'
+                src='./react-demo/images/img-2.jpg'
                 text= "BEACH :D Cool Beach and cool island Mr. Beast"
                 label= 'Successful 💯'
                 path = '/services'
@@ -27,20 +27,20 @@ function Cards() {
             </ul>
             <ul className='cards__items'>
             <CardItem 
-                src='images/img-3.jpg'
+                src='.react-demo/images/img-3.jpg'
                 text= "MR. BEAST ABANDONED ME 😢"
                 label = 'Not Successful'
                 path = '/services'
                 />
 
                 <CardItem 
-                src='images/img-4.jpg'
+                src='.react-demo/images/img-4.jpg'
                 text= "I luv basketball 🏀 LEBRON JAMES !"
                 label = 'Athletics'
                 path = '/services'
                 />
                 <CardItem 
-                src='images/img-5.jpg'
+                src='./react-demo/images/img-5.jpg'
                 text= "MR. BEAST ABANDONED ME 😢 pt 2"
                 label = 'Not Successful'
                 path = '/services'
