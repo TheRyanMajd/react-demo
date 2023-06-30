@@ -28,7 +28,7 @@ function Navbar() {
     <>
     <nav className = "navbar">
         <div className = "navbar-container">
-        <Link to = "./react-demo" className = "navbar-logo" onClick={closeMobileMenu}>
+        <Link to = "./" className = "navbar-logo" onClick={closeMobileMenu}>
             RYAN <i className='fab fa-typo3' /> 
         </Link>
             <div className = "menu-icon" onClick={handleClick}>
@@ -58,7 +58,7 @@ function Navbar() {
             </li> */}
 
             <li className='nav-item'>
-                <Link to= '/react-demo' className='nav-links' onClick={closeMobileMenu}>
+                <Link to= '/' className='nav-links' onClick={closeMobileMenu}>
                     Home
                 </Link>
             </li>

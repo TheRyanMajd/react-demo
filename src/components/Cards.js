@@ -27,14 +27,14 @@ function Cards() {
             </ul>
             <ul className='cards__items'>
             <CardItem 
-                src='.react-demo/images/img-3.jpg'
+                src='./react-demo/images/img-3.jpg'
                 text= "MR. BEAST ABANDONED ME 😢"
                 label = 'Not Successful'
                 path = '/services'
                 />
 
                 <CardItem 
-                src='.react-demo/images/img-4.jpg'
+                src='./react-demo/images/img-4.jpg'
                 text= "I luv basketball 🏀 LEBRON JAMES !"
                 label = 'Athletics'
                 path = '/services'
